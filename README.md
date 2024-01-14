@@ -20,3 +20,6 @@ Um aluno está associado a uma turma, que possui atividades criadas pelo profess
 https://github.com/enricodamasceno/Portfolio/assets/118639665/364ffdb4-441c-41c3-b78f-0be4f4f959dc
 
 Repositório do projeto: https://github.com/enricodamasceno/Projeto-Escola
+
+Eu também estive estudando...
+ - Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]: https://www.udemy.com/course/machinelearning/
