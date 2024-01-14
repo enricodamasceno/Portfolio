@@ -1,7 +1,7 @@
 # Portfolio
 Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me aprofundando em Java, PHP e Python, mas já tive contato com HTML, CSS, JavaScript, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
 
-Segue abaixo uma demonstração do meu trabalho e pesquisa:
+Segue abaixo uma demonstração dos meus projetos mais recentes:
 
 ## Projeto: Sistema para administração de uma escola
 
@@ -17,3 +17,4 @@ Pode ser utilizado para cadastrar atividades, respondê-las, alterar, excluir, a
 
 Um aluno está associado a uma turma, que possui atividades criadas pelo professor, estas podem ser respondidas pelo aluno e às respostas são atribuídas notas (que dependem dos alunos). O projeto une polimorfismo, abstração e o que mais é interessante à POO para um sistema simples que futuramente pode ser evoluído com a adição de um front-end e vinculação a um banco de dados.
 
+Repositório do projeto: https://github.com/enricodamasceno/Projeto-Escola
