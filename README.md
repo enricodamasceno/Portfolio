@@ -1,11 +1,12 @@
 # Portfolio
 Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me aprofundando em Java, PHP e Python, mas já tive contato com HTML, CSS, JavaScript, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
 
-Informações de contato:
-E-mail: pedroenrico03@outlook.com.br
+**LinkedIn: https://www.linkedin.com/in/enrico-damasceno-21583022a/**
 
-LinkedIn:
-https://www.linkedin.com/in/enrico-damasceno-21583022a/
+## Informações de contato:
+
+**E-mail 1: pedroenrico03@outlook.com.br**
+**E-mail 2: pedroenrico03@outlook.com**
 
 Segue abaixo uma demonstração dos meus projetos mais recentes:
 
