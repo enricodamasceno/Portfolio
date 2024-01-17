@@ -6,6 +6,7 @@ Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me 
 ## Informações de contato:
 
 **E-mail 1: pedroenrico03@outlook.com.br**
+
 **E-mail 2: pedroenrico03@outlook.com**
 
 Segue abaixo uma demonstração dos meus projetos mais recentes:
