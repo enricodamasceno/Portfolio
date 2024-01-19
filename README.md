@@ -31,3 +31,4 @@ Repositório do projeto: https://github.com/enricodamasceno/Projeto-Escola
 
 Eu também estive estudando...
  - Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]: https://www.udemy.com/course/machinelearning/
+ - Laravel 8 from scratch: https://laracasts.com/series/laravel-8-from-scratch
