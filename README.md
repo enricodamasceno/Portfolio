@@ -1,5 +1,5 @@
 # Portfolio
-Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me aprofundando em Java, PHP e Python, mas já tive contato com HTML, CSS, JavaScript, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
+Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me aprofundando em PHP e Python, mas já tive contato com Java, HTML, CSS, JavaScript, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
 
 **LinkedIn: https://www.linkedin.com/in/enrico-damasceno-21583022a/**
 
@@ -11,7 +11,7 @@ Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me 
 
 Segue abaixo uma demonstração dos meus projetos mais recentes:
 
-## Projeto: Sistema para administração de uma escola
+## P1: Sistema para administração de uma escola
 
 Sistema terminal para administração de uma escola por coordenadores e professores, que permite a visualização e resposta de atividades por parte dos alunos e emissão de boletins para alunos e responsáveis.
 
@@ -29,6 +29,12 @@ https://github.com/enricodamasceno/Portfolio/assets/118639665/364ffdb4-441c-41c3
 
 Repositório do projeto: https://github.com/enricodamasceno/Projeto-Escola
 
-Eu também estive estudando...
+## P2: Automação - Alimentando um sistema web com dados de uma planilha excel
+
+Recentemente, no meu trabalho, fui encarregado de transferir dados de uma planilha excel para um sistema web usando um método arcaico de cadastrar itens, digitar, salvar e repetir o processo inúmeras vezes, o que talvez me tomasse uma semana de trabalho. Para agilizar, criei um script em Python utilizando Selenium e um WebDriver para interagir com a página automáticamente. Usei Pandas para ler a planilha. Após algumas horas de pesquisa, consegui um código que funcionasse perfeitamente e terminasse todo o serviço enquanto eu conferia os dados.
+
+Não posso divulgar o código por completo pois o mesmo foi feito adequadamente para o sistema em questão (e inclui dados pessoais), mas vou deixar um link para um repositório público que omite esses dados, apenas para constar.
+
+## Eu também estive estudando...
  - Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]: https://www.udemy.com/course/machinelearning/
  - Laravel 8 from scratch: https://laracasts.com/series/laravel-8-from-scratch
