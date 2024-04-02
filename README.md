@@ -1,5 +1,5 @@
 # Portfolio
-Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me aprofundando em PHP e Python, mas já tive contato com Java, HTML, CSS, JavaScript, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
+Sou Enrico Damasceno, desenvolvedor back-end e adepto a programação. Estou me aprofundando em PHP e Python, mas já tive contato com Java, HTML, CSS, JavaScript, Kotlin, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
 
 **LinkedIn: [https://www.linkedin.com/in/enrico-damasceno-21583022a/](https://www.linkedin.com/in/enrico-damasceno/)**
 
