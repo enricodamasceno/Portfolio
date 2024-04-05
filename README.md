@@ -1,11 +1,13 @@
 # Portfolio
 Sou Enrico Damasceno, estudante de Sistemas e Mídias Digitais e adepto a programação. Estou me aprofundando em Python e PHP, mas já tive contato com Java, HTML, CSS, JavaScript, Kotlin, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
 
-**LinkedIn: [https://www.linkedin.com/in/enrico-damasceno/](https://www.linkedin.com/in/enrico-damasceno/)**
 
-## Informações de contato:
+
+## Contato:
 
 **E-mail 1: pedroenrico03@outlook.com.br**
+
+**LinkedIn: [https://www.linkedin.com/in/enrico-damasceno/](https://www.linkedin.com/in/enrico-damasceno/)**
 
 Segue abaixo uma demonstração dos meus projetos mais recentes:
 
