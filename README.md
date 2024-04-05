@@ -7,8 +7,6 @@ Sou Enrico Damasceno, estudante de Sistemas e Mídias Digitais e adepto a progra
 
 **E-mail 1: pedroenrico03@outlook.com.br**
 
-**E-mail 2: pedroenrico03@outlook.com**
-
 Segue abaixo uma demonstração dos meus projetos mais recentes:
 
 ## P1: Sistema para administração de uma escola
