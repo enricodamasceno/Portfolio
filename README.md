@@ -1,5 +1,5 @@
 # Portfolio
-Sou Enrico Damasceno, estudante de Sistemas e Mídias Digitais e adepto a programação. Estou me aprofundando em Python e PHP, mas já tive contato com Java, HTML, CSS, JavaScript, Kotlin, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
+Sou Enrico Damasceno, estudante de Sistemas e Mídias Digitais e adepto a programação. Estou me aprofundando em Python, Java e PHP, mas já tive contato com JavaScript, Kotlin, entre outros. Também sou interessado em inteligência artificial e cibersegurança.
 
 
 
