@@ -5,7 +5,7 @@ Sou Enrico Damasceno, estudante de Sistemas e Mídias Digitais e adepto a progra
 
 ## Contato:
 
-**E-mail 1: pedroenrico03@outlook.com.br**
+**E-mail: pedroenrico03@outlook.com.br**
 
 **LinkedIn: [https://www.linkedin.com/in/enrico-damasceno/](https://www.linkedin.com/in/enrico-damasceno/)**
 
